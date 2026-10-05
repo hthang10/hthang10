@@ -2,9 +2,9 @@
 
 I'm Hoang Thang, just a guy with a love for robots. 🤖
 
-I mostly work on robotics and autonomous systems. 
+I mostly work on robotics and autonomous systems. 🤖🚗🦾
 
-This is a profile where I’ll be uploading my projects, algorithm experiments, and things I’m currently working on.
+This is a profile where I’ll be uploading my projects, and things I’m currently working on.
 
 ---
 
