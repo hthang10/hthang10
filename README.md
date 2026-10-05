@@ -2,7 +2,7 @@
 
 I'm **Hoang Thang**, just a guy with a love for robots. 🤖
 
-I mostly work on **robotics and autonomous systems**, with a main focus on **robot perception and control**. 🤖🚗🦾
+I mostly do research on research on **robotics and autonomous systems**, with a main focus on **robot perception and control**. 🤖🚗🦾
 
 This is a profile where I’ll be uploading my projects, and things I’m currently working on.
 
