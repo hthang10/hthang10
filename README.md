@@ -2,11 +2,9 @@
 
 I'm Hoang Thang, just a guy with a love for robots. 🤖
 
-I mostly work on robotics and autonomous systems — ROS 2, Computer Vision, navigation algorithms, and making things move smoothly. 
+I mostly work on robotics and autonomous systems. 
 
-When I'm not writing code for robots, I enjoy exploring 3D mapping and researching new ways to make machines a little smarter.
-
-This is a profile where I’ll be uploading my projects, algorithm experiments, and things I’m currently working on. Everything here is built from scratch and driven by curiosity.
+This is a profile where I’ll be uploading my projects, algorithm experiments, and things I’m currently working on.
 
 ---
 
