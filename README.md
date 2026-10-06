@@ -4,14 +4,12 @@ I'm **Hoang Thang**, just a guy with a love for robots. 🤖
 
 I mostly do research on **robotics and autonomous systems**, with a main focus on **robot perception and control**. 🤖🚗🦾
 
-This is a profile where I’ll be uploading my projects, and things I’m currently working on.
-
 ---
 
 ### Tools & Tech
 
-- **Languages:** C, C++, Python
-- **Frame Work:** ROS / ROS 2, OpenCV, Pytorch
+- **Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Frame Work:** 	![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)	![OpenCV](https://img.shields.io/badge/opencv-%23fff.svg?style=for-the-badge&logo=opencv&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 - **Simulation:** Gazebo, Matlab
 
 ---
