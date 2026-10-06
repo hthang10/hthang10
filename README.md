@@ -21,5 +21,5 @@ This is a profile where I’ll be uploading my projects, and things I’m curren
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" />
 
 - ⚽ I like playing football and my idol is Leo Messi 🐐👑.
-- 🍵 Not a coffee or tea person.
+- 🥩 I like eating beef.
 - 🎴 Into anime — *One Piece* and *Naruto* are my favorites.
